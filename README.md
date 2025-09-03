@@ -1,7 +1,7 @@
-# 👋 Hello! I’m Mark Andrew Soliman  
+# Hello! I’m Mark Andrew Soliman  
 
-🎓 **BSIT Student • Software Developer • Project Lead @ TREIS ADIUTOR**  
-💻 I specialize in building academic systems, capstone projects, and full-stack web/mobile apps for students, startups, and professionals.  
+**BSIT Student • Software Developer • Project Lead @ TREIS ADIUTOR**  
+I specialize in building academic systems, capstone projects, and full-stack web/mobile apps for students, startups, and professionals.  
 
 ## 🛠️ **Tech Stack & Tools**  
 
@@ -21,7 +21,7 @@
 **Deployment & Version Control:**  
 `Git` • `GitHub` • `Vercel` • `cPanel`
 
-## 💡 **Core Features I Built & Integrated**  
+## **Core Features I Built & Integrated**  
 
 - User Authentication & Authorization (JWT, OAuth2)  
 - Role-Based Access Control (RBAC)  
@@ -35,7 +35,7 @@
 - Content Management Features  
 - System Documentation (SRS, SDS, ERD, Use Cases)  
 
-## 💻 **Projects I Usually Work On**  
+## **Projects I Usually Work On**  
 
 - Capstone & Thesis Projects  
 - Full-Stack Web Applications  
@@ -48,11 +48,11 @@
 - Real-Time Chat & Messaging Platforms  
 - Budget Trackers & Business Tools  
 
-🤝 **Let’s Connect!**  
+**Let’s Connect!**  
 I’m always open to exciting projects — whether it’s freelance, academic partnerships, or dev collabs.  
 
-📬 **Reach me on Facebook:** [@mrkndrwslmn](https://facebook.com/mrkndrwslmn)  
-💼 **Let’s build something impactful.**
+**Reach me on Facebook:** [@mrkndrwslmn](https://facebook.com/mrkndrwslmn)  
+**Let’s build something impactful.**
 
 ---
 
